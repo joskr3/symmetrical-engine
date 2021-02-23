@@ -1,1 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T22:43:13.953Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" version="14.4.2" etag="g1JJzweyTnNIG2cvYdhf" type="github"><diagram id="iitwxYJrEq330j7Xy36y">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-23T10:49:16.367Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="y3wpu-DeSm1kaA0-Sdm0" version="14.4.2" type="github" pages="2">
+  <diagram id="iitwxYJrEq330j7Xy36y" name="Page-1">
+    <mxGraphModel dx="786" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5X6YR8AcGxNu1WP0N8KS-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="90" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="5X6YR8AcGxNu1WP0N8KS-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="340" y="100" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="5X6YR8AcGxNu1WP0N8KS-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="600" y="90" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="5X6YR8AcGxNu1WP0N8KS-6" value="Todos mis cambios que no estan registrados" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="100" y="120" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5X6YR8AcGxNu1WP0N8KS-7" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="140" y="300" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5X6YR8AcGxNu1WP0N8KS-8" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="415" y="300" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5X6YR8AcGxNu1WP0N8KS-9" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="650" y="300" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5X6YR8AcGxNu1WP0N8KS-10" value="untracked&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="115" y="240" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5X6YR8AcGxNu1WP0N8KS-11" value="Mis cambios que estan listos para ser registrados" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="365" y="120" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5X6YR8AcGxNu1WP0N8KS-12" value="staged" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="380" y="230" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5X6YR8AcGxNu1WP0N8KS-14" value="tracked" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="630" y="230" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5X6YR8AcGxNu1WP0N8KS-15" value="Mis cambios guardados" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="630" y="120" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5X6YR8AcGxNu1WP0N8KS-16" value="" style="endArrow=classic;html=1;fontSize=16;" edge="1" parent="1" target="5X6YR8AcGxNu1WP0N8KS-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="190" as="sourcePoint" />
+            <mxPoint x="310" y="186" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5X6YR8AcGxNu1WP0N8KS-17" value="add" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="180" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5X6YR8AcGxNu1WP0N8KS-18" value="commit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="530" y="180" width="60" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9Z31-ghtRgB0iEX3RVb2" name="Page-2">
+    <mxGraphModel dx="786" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="Z8sXa-Cj14Hgld40fw3x-0" />
+        <mxCell id="Z8sXa-Cj14Hgld40fw3x-1" parent="Z8sXa-Cj14Hgld40fw3x-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
